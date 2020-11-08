@@ -1,5 +1,6 @@
 # UG-model
 FTC Ultimate Goal TensorFlow Object Detection Model
+![](20201108124129.png)
 
 Using `ssd_mobilenet_v2_coco` network.
 
