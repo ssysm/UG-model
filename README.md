@@ -19,3 +19,11 @@ Useful Link:
   - [Tensorflow Object Detection](https://github.com/tensorflow/models/tree/master/research/object_detection)
   - [Tensorflow Lite](https://www.tensorflow.org/lite)
   - [`google/ftc-object-detection`](https://github.com/google/ftc-object-detection)
+
+----
+
+## Not working with your field?
+
+Not working well? Email me a video clip of your field and I will bring them in to the dataset!
+
+Email: syua9708 [at] flhs dot us
